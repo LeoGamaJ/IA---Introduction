@@ -1,2 +1,2 @@
 # IA--Introduction
-Este repositório reúne scripts para chamadas de API de provedores de Inteligência Artificial
+This repository brings together scripts for API calls from Artificial Intelligence providers
